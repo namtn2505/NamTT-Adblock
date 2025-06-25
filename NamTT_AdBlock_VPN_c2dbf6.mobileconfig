@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>ServerAddresses</key>
+				<array>
+					<string>c2dbf6.dns.nextdns.io</string>
+				</array>
+				<key>MatchDomains</key>
+				<array>
+					<string>.</string>
+				</array>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Chặn quảng cáo bằng cấu hình NextDNS cá nhân (NamTT)</string>
+			<key>PayloadDisplayName</key>
+			<string>NamTT AdBlock (NextDNS)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.namtruongthanh.nextdns.adblock</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>4d8fc620-0b80-4e26-a295-dd2dfb04946c</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Cấu hình DNS NextDNS + VPN ẩn DNS (Nam Trương Thành)</string>
+	<key>PayloadDisplayName</key>
+	<string>NamTT - NextDNS AdBlock + VPN</string>
+	<key>PayloadIdentifier</key>
+	<string>com.namtruongthanh.nextdns.vpnprofile</string>
+	<key>PayloadOrganization</key>
+	<string>Nam Trương Thành</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>721d0cdf-1722-49c6-9846-1ec0d855e9b9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
